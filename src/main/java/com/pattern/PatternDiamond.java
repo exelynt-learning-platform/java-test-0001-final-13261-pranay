@@ -22,7 +22,7 @@ public class PatternDiamond {
         }
 
         System.out.print("*");
- 
+
         if (row > 1) {
             for (int j = 1; j <= (2 * row - 3); j++) {
                 System.out.print(" ");
